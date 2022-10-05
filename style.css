@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .form{
@@ -128,3 +129,87 @@ table{
 .one{
     padding: 10px;
 }
+=======
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.none{
+    margin-top: 20px;
+    padding-top: 50px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+.zero{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 10px 0 20px 0;
+}
+.image-1{
+    border-radius: 30px  ;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    margin-top: 30px;
+    
+}
+.image-1 p, h4{
+    padding: 6px 0 10px 20px;
+    font-size: 18px;
+}
+.side{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 500px;
+}
+.side .image-1{
+margin-left: 40px;
+}
+.all{
+ display: flex;
+ justify-content: center;
+ align-items:center;
+ width:100%;
+/* box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+border-radius: 30px; */
+height: 451px;
+flex-direction:column;
+background-color: #EFEFEF;
+}
+.fb{
+    display: flex;
+    justify-content:flex-start;
+    margin-left: 100px;
+
+}
+.ekaterina{
+    padding-top: 15px;
+    font-size: 20px;
+   font-weight: 600;
+}
+.three{
+    padding-left: 45px;
+  
+    padding-right: 46px;
+ 
+}
+.contain{
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+border-radius: 30px; 
+width: 50%;
+margin: 0px 488px 153px 70px;
+padding-left: 15px;
+padding-right: 15px;
+}
+.all .name{
+margin: 49px 296px 34px 108px;
+position: static;
+}
+    
+>>>>>>> main
