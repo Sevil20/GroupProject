@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.form{
+    width: 667px;
+    height: 93px;
+    top: 200px;
+    left: 121px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: black;
+    margin-left: 110px;
+}
+.try{
+    flex-direction: row;
+    justify-content: space-around;
+    width: 150px;
+    height: 39px;
+    left: 122px;
+    top: 2182px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    color: #1E4681;
+}
+.tri{
+    width: 214px;
+    flex-direction: row;
+    height: 39px;
+    left: 486px;
+    top: 2182px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    color: #1E4681;
+}
+.tru{
+    width: 150px;
+    
+    flex-direction: row;
+    height: 39px;
+    left: 851px;
+    top: 2182px;
+    font-family:'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 130%;
+    color: #1E4681;
+}
+.two{
+    width: 223px;
+    height: 39px;
+    flex-direction: row;
+    left: 122px;
+    top: 2222px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: black;
+}
+.three{
+    width: 271px; 
+    height: 109px;
+    flex-direction: row;
+    left: 449px;
+    top: 2222px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 130%;
+    color: black;
+
+}
+.four{
+    width: 245px; 
+    flex-direction: row;
+    height: 39px;
+    left: 851px;
+    top: 2222px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 130%;
+    color: black;
+}
+.for{
+    width: 667px;
+    margin-left: 110px;
+    height: 93px;
+    left: 140px;
+    top: 251px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 130%;
+    color: black;
+
+}
+.list{
+    width: 628px;
+    margin-left: 110px;
+    height: 361px;
+    left: 172px;
+    top: 263px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 130%;
+}
+
+table{
+    margin-left: 100px;
+    padding-right: 300px;
+}
+.one{
+    padding: 10px;
+}
