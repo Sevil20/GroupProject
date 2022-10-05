@@ -1,26 +1,25 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .form{
     width: 667px;
     height: 93px;
-    top: 200px;
-    left: 121px;
+    margin-top: 100px;
+    margin-left: 121px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
     font-size: 55px;
     line-height: 101.38%;
-    color: black;
-    margin-left: 110px;
+    
 }
 .try{
     flex-direction: row;
     justify-content: space-around;
     width: 150px;
     height: 39px;
-    left: 122px;
-    top: 2182px;
+    margin-left: 122px;
+    margin-top: 2182px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -32,8 +31,8 @@
     width: 214px;
     flex-direction: row;
     height: 39px;
-    left: 486px;
-    top: 2182px;
+    margin-left: 486px;
+    margin-top: 2182px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -43,11 +42,10 @@
 }
 .tru{
     width: 150px;
-    
     flex-direction: row;
     height: 39px;
-    left: 851px;
-    top: 2182px;
+    margin-left: 851px;
+    margin-top: 2182px;
     font-family:'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -69,11 +67,11 @@
     color: black;
 }
 .three{
-    width: 271px; 
+    width: 371px; 
     height: 109px;
     flex-direction: row;
-    left: 449px;
-    top: 2222px;
+    margin-left: 449px;
+    margin-top: 2222px;
     font-family: 'Roboto';
     font-weight: 400;
     font-style: normal;
@@ -97,10 +95,10 @@
 }
 .for{
     width: 667px;
-    margin-left: 110px;
+    /* margin-left: 110px; */
     height: 93px;
-    left: 140px;
-    top: 251px;
+    margin-left: 140px;
+    margin-top: 151px;
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: 700;
@@ -113,8 +111,8 @@
     width: 628px;
     margin-left: 110px;
     height: 361px;
-    left: 172px;
-    top: 263px;
+    margin-left: 172px;
+    margin-top: 90px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -129,7 +127,6 @@ table{
 .one{
     padding: 10px;
 }
-=======
 *{
     margin: 0;
     padding: 0;
@@ -211,5 +208,4 @@ padding-right: 15px;
 margin: 49px 296px 34px 108px;
 position: static;
 }
-    
->>>>>>> main
+
