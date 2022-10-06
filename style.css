@@ -1,3 +1,6 @@
+body{
+    background-color: red;
+}
 p , h2{
     font-family: 'Roboto';
     font-style: normal;
